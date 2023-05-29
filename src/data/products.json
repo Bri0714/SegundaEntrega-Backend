@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta blanca",
+    "description": "Camiseta de algodón blanca para hombre",
+    "code": "CM01",
+    "price": 20.99,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "https://example.com/images/cm01-1.jpg",
+      "https://example.com/images/cm01-2.jpg"
+    ]
+  }
+]
